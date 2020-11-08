@@ -16,7 +16,7 @@ export const Game = () => {
 
 	useEffect(() => {
 
-		// Alert 'game won' if reached top line
+	// Alert 'game won' if reached top line
     if (playerCurrentTile <= squareBoardWidth) {
       alert('You just won the game');
       resetGame();
