@@ -1,3 +1,5 @@
+<h1>Live Demo: [https://mine-sweeper-game.netlify.app/](https://mine-sweeper-game.netlify.app/)</h1>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
