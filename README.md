@@ -1,4 +1,4 @@
-<h1>Live Demo: [https://mine-sweeper-game.netlify.app/](https://mine-sweeper-game.netlify.app/)</h1>
+<h1>Live Demo: <a href="https://mine-sweeper-game.netlify.app/">https://mine-sweeper-game.netlify.app</a></h1>
 
 # Getting Started with Create React App
 
